@@ -25,6 +25,13 @@ This project displays a PDF file as different sizes and colors.
 
 * [Objective-C](http://brackendev.github.io/iOS-Resolution-Independence-Objective-C/)
 
+## Acknowledgements
+
+This project makes use of the following third-party libraries:
+
+* [MGImageUtilities](http://github.com/brackendev/MGImageUtilities)
+* [UIImage-PDF](https://github.com/brackendev/UIImage-PDF)
+
 ## Author
 
 [brackendev](https://www.github.com/brackendev)
