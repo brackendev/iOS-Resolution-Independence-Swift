@@ -21,7 +21,7 @@ git clone --recursive https://github.com/brackendev/iOS-Resolution-Independence-
 
 ## Ports
 
-* [Objective-C](http://brackendev.github.io/iOS-Resolution-Independence-Objective-C/)
+* [Objective-C](https://github.com/brackendev/iOS-Resolution-Independence-Objective-C)
 
 ## Acknowledgements
 
