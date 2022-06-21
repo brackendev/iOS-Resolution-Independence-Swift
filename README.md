@@ -4,12 +4,14 @@ _With the release of the iPhone 6 Plus and ["the weirdness of the resolution,"](
 
 iOS Resolution Independence Example (Swift)
 ===========================================
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3059846764f844c5a004ee1bc4b3820e)](https://www.codacy.com/app/brackendev/iOS-Resolution-Independence-Swift?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=brackendev/iOS-Resolution-Independence-Swift&amp;utm_campaign=Badge_Grade)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbrackendev%2FiOS-Resolution-Independence-Swift.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbrackendev%2FiOS-Resolution-Independence-Swift?ref=badge_shield)
 
 **An iOS example of adding resolution independence and future-proofing your app by using vector graphics.**
 
 This project displays a PDF file as different sizes and colors.
+
+## TODO
+
+- [ ] Support latest iOS SDK
 
 ## Installation
 
